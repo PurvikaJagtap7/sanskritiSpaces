@@ -2,6 +2,8 @@
 
 <h3>sanskritiSpaces is a cutting-edge web application built with Next.js and JavaScript, designed to revolutionize the way users explore and engage with online spaces. This project combines modern technologies with an intuitive user interface, offering a unique blend of functionality and aesthetic appeal.</h3>
 
+<a href="https://sanskriti-spaces.vercel.app/" target="_blank">Live Site</a>
+
 <h2>Features:</h2>
 
 1. Responsive Design

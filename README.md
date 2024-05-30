@@ -48,4 +48,4 @@ Contributing:<br>
     4. Submit a pull request.
 
 Contact:<br>
-    For any inquiries or support, please contact the me at purvikajagtap@gmail.com.
+    For any inquiries or support, please contact me at purvikajagtap@gmail.com.
